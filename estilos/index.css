@@ -1,0 +1,24 @@
+@charset "UTF-8";
+@font-face {
+    font-family: Roboto;
+    src: url('\fontes\Roboto.ttf') format('truetype');
+
+    font-family: Smooch;
+    src: url('fontes\Smooch') format('truetype');
+}
+:root{
+
+ /* Minhas Fontes*/
+    --font_padrão: Arial , Helvetica , Sans-serif ;
+    --font_destaque01:'Roboto' , Helvetica , Sans-serif;
+    --font_destaque02:'Smooch' , Helvetica , Sans-serif;
+
+ /* Minha Paleta de cores*/
+   --cor01: #011C40; 
+   --cor02: #011126; 
+   --cor03: #032859; 
+   --cor04: #074973; 
+   --cor05: #08678C; 
+
+}
+
