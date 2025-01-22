@@ -175,6 +175,15 @@ footer p {
     margin: 0 auto;
     display: block;
 }
+ main a{
+    text-decoration: none;
+    color: var(--cor-destaque);
+}
+
+main a:hover{
+    text-decoration: underline;
+    color: var(--cor-fundo);
+}
 
 /* Responsividade */
 @media (max-width: 600px) {
@@ -187,6 +196,7 @@ footer p {
         padding: 10px;
     }
 }
+
 
 
 
