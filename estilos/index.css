@@ -197,6 +197,26 @@ main a:hover{
     }
 }
 
+#Contatos   h2{
+    color: var(--cor-destaque);
+    border-top: 1px solid var(--cor-borda);
+}
+#Contatos strong{
+    color: var(--cor-nav);
+}
+#Contatos strong:hover{
+    color: var(--cor-fundo);
+    
+}
+#RedesSociais h2{
+    color: var(--cor-destaque);
+
+}
+#Atendimento h3{
+    color: var(--cor-destaque);
+}
+
+
 
 
 
