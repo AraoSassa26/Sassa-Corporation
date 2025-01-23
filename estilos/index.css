@@ -87,7 +87,7 @@ nav a:hover {
 main, aside {
     background-color: var(--cor-fundo-conteudo);
     color: #333;
-    padding: 20px;
+    padding: 25px;
     border: 1px solid var(--cor-borda);
     border-radius: 8px;
     margin: 20px 0;
@@ -215,7 +215,29 @@ main a:hover{
 #Atendimento h3{
     color: var(--cor-destaque);
 }
+#sistemaOperacionais{
+    border-top: 2 solid var(--cor-borda);
+    border-bottom: 2px solid var(--cor-borda);
+    
+}
+main h2 {
+    color: var(--cor-destaque);
+}
+#RedesSociais{
+    border-bottom: 2px solid var(--cor-borda);
+}
+#ultimaHora{
 
+    border-bottom: 2px solid var(--cor-borda);
+}
+#evento a{
+    text-decoration: none;
+    color: var(--cor-destaque);
+}
+#evento a:hover{
+    text-decoration: underline;
+    color: var(--cor-fundo);
+}
 
 
 
